@@ -256,3 +256,17 @@ img {
     grid-template-columns: repeat(1, 1fr);
   }
 }
+
+section{
+  width:50%;
+  margin:0 auto;
+  padding: 20px;
+}
+
+
+section h4{
+  color: dodgerblue;
+}
+section span{
+  font-weight: bold;
+}
